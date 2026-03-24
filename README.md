@@ -22,12 +22,6 @@ Product Pair Analysis: Find products frequently purchased together
 
 - Jupyter Notebook (optional): Interactive analysis environment
 
-**Project Structure**
-Sales-Analysis-Project/
-│
-├── Sales Analysis by Penny.ipynb   # Jupyter notebook with analysis
-├── data/                           # Raw and cleaned datasets (if included)
-└── README.md                       # Project documentation
 
 **Key Features**
 
